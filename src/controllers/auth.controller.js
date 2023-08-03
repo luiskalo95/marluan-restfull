@@ -21,8 +21,7 @@ class AuthController {
         const credentials = await _authService.signIn(body);
         response.status(200).json({
             ok: true,
-            credentials,
-            newChange: true
+            credentials
         })
     }
 
