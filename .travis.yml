@@ -3,5 +3,5 @@ node_js:
     - stable
 deploy:
     provider: heroku
-    app: luiskalo95-restfulapi
-    api_key: 59d8d1de-04fe-482f-b2a6-72d052aedbb4
+    app: luiskalo95-marluan-restful
+    api_key: 906e06e9-4638-4e29-a115-136d4637c852
